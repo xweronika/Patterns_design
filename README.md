@@ -1,13 +1,13 @@
 # Wzorce_projektowe
 
 C++ Programming: Code patterns design, as Decorator, Factory, Observer and Strategy.
+![w1](https://user-images.githubusercontent.com/44413511/106394392-ab31ad00-63fc-11eb-93f8-6244a7a0cc68.jpg)
 
-![Alt text](http://dev-dev.pl/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=505&a=true&file=w1.jpg&t=OFz49krpifMRdig&scalingup=0)
+![w2](https://user-images.githubusercontent.com/44413511/106394393-abca4380-63fc-11eb-9f71-46f1f12b4e25.jpg)
 
-![Alt text](http://dev-dev.pl/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=505&a=true&file=w6.png&t=yjEn7hqYtC5IQfO&scalingup=0)
+![w5](https://user-images.githubusercontent.com/44413511/106394395-abca4380-63fc-11eb-8f39-7692036b9eb3.jpg)
 
-![Alt text](http://dev-dev.pl/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=505&a=true&file=w7.png&t=3rZgLUWtR9KTHGY&scalingup=0)
+![w6](https://user-images.githubusercontent.com/44413511/106394396-ac62da00-63fc-11eb-9b3d-bb850eaa1e67.png)
 
-![Alt text](http://dev-dev.pl/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=505&a=true&file=w2.jpg&t=mAsoDtO9Ueo6et8&scalingup=0)
+![w7](https://user-images.githubusercontent.com/44413511/106394397-ac62da00-63fc-11eb-84ea-4ed23458d297.png)
 
-![Alt text](http://dev-dev.pl/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=505&a=true&file=w5.jpg&t=2reuu1SdeeMC5mu&scalingup=0)
