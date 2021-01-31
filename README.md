@@ -1,6 +1,7 @@
 # Wzorce_projektowe
 
 C++ Programming: Code patterns design, as Decorator, Factory, Observer and Strategy.
+
 ![w1](https://user-images.githubusercontent.com/44413511/106394392-ab31ad00-63fc-11eb-93f8-6244a7a0cc68.jpg)
 
 ![w2](https://user-images.githubusercontent.com/44413511/106394393-abca4380-63fc-11eb-9f71-46f1f12b4e25.jpg)
